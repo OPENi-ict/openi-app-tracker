@@ -1,0 +1,16 @@
+{
+ "name": "OpeniAppTracker",
+ "version": "0.1.0",
+ "description": "Tracks Visits By App",
+ "theme": false,
+ "require": {
+    "piwik": ">=2.10.0"
+ },
+ "authors": [
+     {
+         "name": "Piwik",
+         "email": "",
+         "homepage": ""
+     }
+ ]
+}
